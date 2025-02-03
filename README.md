@@ -1,5 +1,5 @@
 ## Resume
-[NamGook Kee Resume.pdf](https://github.com/user-attachments/files/18637653/KeeNamGook_resume.pdf)
+📜[NamGook Kee Resume.pdf](https://github.com/user-attachments/files/18637653/KeeNamGook_resume.pdf)
 
 
 ## Portfolio
