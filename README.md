@@ -2,7 +2,7 @@
 📜[NamGook Kee Resume.pdf](https://github.com/user-attachments/files/18637653/KeeNamGook_resume.pdf)
 
 # Portfolio
-#### 🎯 ___"I am creating a BEAUTIFUL portfolio."___
+#### 🎯 ___"I am creating a GORGEOUS portfolio."___
 
 # Paper
 🌍https://scholar.google.com/citations?user=h3j2elUAAAAJ&hl=ko
