@@ -2,7 +2,7 @@
 📜[NamGook Kee Resume.pdf](https://github.com/user-attachments/files/18637653/KeeNamGook_resume.pdf)
 
 # Portfolio
-#### 🎯 [Portfolio](https://www.notion.so/193e8878a3b180ab9aaff3557810c185?pvs=4)
+#### ![Notion](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png) [Portfolio](https://www.notion.so/193e8878a3b180ab9aaff3557810c185?pvs=4)
 
 # Paper
 🌍https://scholar.google.com/citations?user=h3j2elUAAAAJ&hl=ko
