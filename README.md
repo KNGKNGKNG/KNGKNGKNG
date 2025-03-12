@@ -12,7 +12,7 @@
 📜[Integrative analysis to explore the biological association between environmental skin diseases and ambient particulate matter.pdf](https://github.com/user-attachments/files/18637761/Integrative.analysis.to.explore.the.biological.association.between.environmental.skin.diseases.and.ambient.particulate.matter.pdf)
 
 
-# GeneLinks (DTC genetic test Project) - 🔒_Private_
+# GeneLinks (DTC genetic test Project) - 🔒 _Private_
 #### Overall
 `📜[Project_DTC DNA Test_Healthcare service Launching(Overall process).pdf](https://github.com/user-attachments/files/#/#.pdf)`
 #### Development Process
