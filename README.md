@@ -12,13 +12,13 @@
 📜[Integrative analysis to explore the biological association between environmental skin diseases and ambient particulate matter.pdf](https://github.com/user-attachments/files/18637761/Integrative.analysis.to.explore.the.biological.association.between.environmental.skin.diseases.and.ambient.particulate.matter.pdf)
 
 
-# GeneLinks (DTC genetic test Project)
+# GeneLinks (DTC genetic test Project) - 🔒_Private_
 #### Overall
 `📜[Project_DTC DNA Test_Healthcare service Launching(Overall process).pdf](https://github.com/user-attachments/files/#/#.pdf)`
 #### Development Process
 `📜[Healthcare Service_development_process(Detail).pdf](https://github.com/user-attachments/files/#/#.pdf)`
 #### Tech Slide Deck
-`📜[GeneLinks_Tech Slide Deck.pdf](https://github.com/user-attachments/files/#/GeneLinks_Tech.Slide.Deck.pdf)`
+`📜[GeneLinks_Tech Slide Deck.pdf](https://github.com/user-attachments/files/#/#.pdf)`
 #### Investment Proposal
 `📜[GeneLinks Investment Proposal(feedback ver).pdf](https://github.com/user-attachments/files/#/#.pdf)`
 #### NLP(LDA) for GWAS
